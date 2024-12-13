@@ -1,8 +1,7 @@
          |ABOUT VIDEO STREAMING APP |
 
 ![image alt](https://github.com/venugopalreddyM0007/video-streaming/blob/ea1f31d987510da6190450278bc82ccc94fdff22/WhatsApp%20Image%202024-12-13%20at%2013.25.32_0e952cb8%20-%20Copy.jpg)
-![image alt](https://github.com/venugopalreddyM0007/video-streaming/blob/b778a0366d138638a1ac73f1cc2e696df6107b6b/WhatsApp%20Image%202024-12-13%20at%2013.25.32_0e952cb8.jpg)
-
+![image alt](https://github.com/venugopalreddyM0007/video-streaming/blob/c840ccbf4c8ccefeac2d7399a7cb37d1e0b66b97/WhatsApp%20Image%202024-12-13%20at%2013.25.32_40677ed3.jpg)
 Optimized Video Search: Implemented debouncing to improve search performance.
 
 - Efficient API Polling: Used to keep data up-to-date with minimal server load.
