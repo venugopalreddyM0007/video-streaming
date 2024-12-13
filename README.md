@@ -1,5 +1,4 @@
-Developed a YouTube using React, Tailwind CSS, Firebase, and YouTube APIs. The project showcases advanced techniques and a high standard of code quality. Features include:
-
+ABOUT VIDEO STREAMING APP 
 Optimized Video Search: Implemented debouncing to improve search performance.
 
 - Efficient API Polling: Used to keep data up-to-date with minimal server load.
