@@ -1,7 +1,10 @@
-         |ABOUT VIDEO STREAMING APP |
+![videoGpt-nestedComments](https://github.com/user-attachments/assets/65ea5fc1-75f0-474b-85b7-74865068d90b)
+![videoGpt-playvideo](https://github.com/user-attachments/assets/1b39ad9e-5d42-49b2-aca4-f9c11bb03cf7)
+![videoStreamGpt-home](https://github.com/user-attachments/assets/fa54cbf1-c7f0-4fa8-b466-ef6fb1b654db)        
 
-![image alt](https://github.com/venugopalreddyM0007/video-streaming/blob/ea1f31d987510da6190450278bc82ccc94fdff22/WhatsApp%20Image%202024-12-13%20at%2013.25.32_0e952cb8%20-%20Copy.jpg)
-![image alt](https://github.com/venugopalreddyM0007/video-streaming/blob/c840ccbf4c8ccefeac2d7399a7cb37d1e0b66b97/WhatsApp%20Image%202024-12-13%20at%2013.25.32_40677ed3.jpg)
+
+|ABOUT VIDEO STREAMING APP |
+
 Optimized Video Search: Implemented debouncing to improve search performance.
 
 - Efficient API Polling: Used to keep data up-to-date with minimal server load.
